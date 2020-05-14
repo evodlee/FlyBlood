@@ -5,6 +5,6 @@ account: neuroevo
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2296367
-bundleId: 3145127
+bundleId: 3145229
 url: https://neuroevo.shinyapps.io/flyblood/
-when: 1589421119.9794
+when: 1589423615.5235
